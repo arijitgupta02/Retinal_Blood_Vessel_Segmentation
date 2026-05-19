@@ -167,28 +167,6 @@ retinal-blood-vessel-segmentation/
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/retinal-blood-vessel-segmentation.git
-```
-
-Move into the project directory:
-
-```bash
-cd retinal-blood-vessel-segmentation
-```
-
-Install required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Requirements
 
 ```txt
