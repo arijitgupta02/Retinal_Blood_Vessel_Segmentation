@@ -116,25 +116,25 @@ The project demonstrates:
 
 ### Preprocessed Retinal Image
 
-![Preprocessing](images%20%26%20Visual%20Output/dataset_preprocessing.png)
+![Preprocessing](images%20%26%20Visual%20Outputs/dataset_preprocessing.png)
 
 ---
 
 ### Segmentation Prediction Result 1
 
-![Prediction 1](images%20%26%20Visual%20Output/segmentation_prediction_1.png)
+![Prediction 1](images%20%26%20Visual%20Outputs/segmentation_prediction_1.png)
 
 ---
 
 ### Segmentation Prediction Result 2
 
-![Prediction 2](images%20%26%20Visual%20Output/segmentation_prediction_2.png)
+![Prediction 2](images%20%26%20Visual%20Outputs/segmentation_prediction_2.png)
 
 ---
 
 ### ROC Curve
 
-![ROC Curve](images%20%26%20Visual%20Output/roc_curve.png)
+![ROC Curve](images%20%26%20Visual%20Outputs/roc_curve.png)
 
 ---
 
