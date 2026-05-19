@@ -110,7 +110,7 @@ The project demonstrates:
 
 ### Original Image and Ground Truth Mask
 
-![Ground Truth](images%20%26%20Visual%20Output/ground_truth_mask.png)
+![Ground Truth](images%20%26%20Visual%20Outputs/ground_truth_mask.png)
 
 ---
 
